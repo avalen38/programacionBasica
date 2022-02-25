@@ -1,0 +1,7 @@
+print("Hola de nuevo",end="...")
+print("Estudiantes")
+print("Hola de nuevo",end=" ")
+print("Estudiantes")
+print("Los estudiantes están muy \n juiciosos en clase")
+print("Hola","cómo","están",sep="*")
+print("Bienvenido","'Jesús Valencia'")

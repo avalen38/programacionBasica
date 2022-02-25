@@ -1,0 +1,6 @@
+juan = int(input("¿Cuántas manzanas tiene Juan?: "))
+maria = int(input("¿Cuántas manzanas tiene María?: "))
+adan = int(input("¿Cuántas manzanas tiene Adán?: "))
+print("Juan tiene ",juan," manzanas, ","María tiene ",maria," manzanas, ","Adán tiene ",adan, " manzanas")
+totalManzanas = int(juan+maria+adan)
+print("El total de manzanas es: ",totalManzanas)
